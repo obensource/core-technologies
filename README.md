@@ -7,3 +7,7 @@ What are the fundamental technologies that need to be mastered for a Developer t
 ### Patterns ⬡
 
 ### Applied Fields 🤖
+
+
+---
+License: [ISC](https://opensource.org/licenses/ISC)
