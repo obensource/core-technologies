@@ -10,4 +10,4 @@ What are the fundamental technologies that need to be mastered for a Developer t
 
 
 ---
-License: [ISC](https://opensource.org/licenses/ISC)
+License: [ISC](https://github.com/obensource/core-technologies/blob/master/LICENSE.md)
